@@ -1,0 +1,198 @@
+/* .body{
+    background-color: aqua;
+} */
+
+.container{
+    background-color: rgb(190, 225, 238);
+    height: 700px;
+    width: 900px;
+    margin: auto;
+    margin-top: 100px;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 5fr 5fr 5fr;
+    border-radius: 20px;
+   
+    
+}
+
+.container2{
+
+  display: grid;
+  
+   
+}
+
+
+
+
+
+.item{
+    background-color: rgb(216, 234, 241);
+    margin: 10px 10px;
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    
+    
+}
+
+
+.one{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding:5px;
+}
+.two{
+    background-image: url(/icon-data.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+    
+}
+
+.three{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-geometry.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.four{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-numbers.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.five{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-puzzles.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+
+}
+
+.six{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-money.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.seven{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-algebra.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.eight{
+    background-image: url(https://www.mathsisfun.com/images/style/icon-calculus.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2rem;
+    padding: 5px;
+
+}
+
+.nine{
+background-image: url(https://www.mathsisfun.com/images/style/icon-physics.gif);
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px;
+
+}
+
+
+.ten{
+background-image: url(https://www.mathsisfun.com/images/style/icon-games.gif); background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px;
+}
+
+.eleven{
+background-image: url(https://www.mathsisfun.com/images/style/icon-dictionary.gif);
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px;
+
+}
+
+.twelve{
+background-image: url(https://www.mathsisfun.com/images/style/icon-worksheet.gif);background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px;
+}
+
+.thirteen{
+background-image: url(https://www.mathsisfun.com/images/style/icon-activity.gif);
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px; 
+position: absolute;
+left: 40rem;
+}
+
+.fourteen{
+background-image: url(https://www.mathsisfun.com/images/style/icon-measure.gif);
+background-size: contain;
+background-repeat: no-repeat;
+
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: 2rem;
+padding: 5px; 
+position: relative;
+left: 10rem;
+}
